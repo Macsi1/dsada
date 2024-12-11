@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "http-proxy-middleware": "^3.0.3",
+    "jsqr": "^1.4.0"
+  }
+}
